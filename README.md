@@ -1,6 +1,12 @@
 # Blog posts
+
+## Tech
 - [How to write a git commit mesage](https://chris.beams.io/posts/git-commit/)
+
+## Professional Development
 - [Hype documents](https://developer.squareup.com/blog/you-are-your-own-best-hype-person/)
+
+## Culture
 - [Contempt culture](https://blog.aurynn.com/2015/12/16-contempt-culture)
 
 # Talks
