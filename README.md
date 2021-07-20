@@ -13,6 +13,7 @@
 
 # Talks
 - [It was never going to work, so let's have some tea](https://www.youtube.com/watch?v=oEbg96wGBdc). A talk about the chaos of tech.
+- [Paying down tech debt while delivering value](https://www.youtube.com/watch?v=InCmGFSA3JM)
 
 # Places like this
 - [Resources for tech leads](https://github.com/PeterCookDev/TechLeading)
