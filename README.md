@@ -3,6 +3,7 @@
 ## Tech
 - [How to write a git commit mesage](https://chris.beams.io/posts/git-commit/)
 - [IEnumerable vs Lists vs Arrays in C#](https://medium.com/@ben.k.muller/c-ienumerable-vs-list-and-array-9f099f157f4f)
+- [yield return in C#][https://www.kenneth-truyers.net/2016/05/12/yield-return-in-c/]
 
 ## Professional Development
 - [Hype documents](https://developer.squareup.com/blog/you-are-your-own-best-hype-person/)
